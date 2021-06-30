@@ -9,7 +9,7 @@ import random
 from discord import Embed
 from datetime import datetime
  
-TOKEN = 'Nzk2OTUxODIxMzM5MDY2Mzg4.X_fZOA.oHRSJGPDHLBSglcDAEfQfL3sjNI'
+TOKEN = #omitted for safety
 
 client = commands.Bot(command_prefix='!')
 
