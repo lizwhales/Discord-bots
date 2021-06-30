@@ -13,7 +13,7 @@ from discord.utils import get
 from datetime import date
 
 
-TOKEN = 'NzM0NjQ4NDQ2MzM3OTQxNjA2.XxUwrg.Brb_WL1epHxHVsfJI1d8asd-ybU'
+TOKEN = #omitted for safety
 client = commands.Bot(command_prefix = '!')
 
 channel_id = 617385082562543618
